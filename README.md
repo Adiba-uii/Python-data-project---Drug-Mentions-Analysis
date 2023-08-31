@@ -44,7 +44,7 @@ project_root/
 
 - The `workflow/` folder contains data processing modules such as `data_processing.py` and `data_utilities.py`.
 - `main.py` is the entry point of the project. It extracts data, processes it, and generates the output JSON file.
-- The `output/` folder contains the output.json` file that represents the relationships between drugs and their mentions.
+- The `output/` folder contains the `output.json` file that represents the relationships between drugs and their mentions.
 
 ## Future Enhancements
 
