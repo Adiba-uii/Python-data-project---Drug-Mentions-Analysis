@@ -11,7 +11,9 @@ This project aims to process data from various sources, including CSV and JSON f
 The project is organized as follows:
 
 project_root/
+
 ├── data/
+
 │ ├── drugs.csv
 │ ├── pubmed.csv
 │ ├── pubmed.json
