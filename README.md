@@ -24,7 +24,7 @@ project_root/
 
 ├── workflow/
 
-| ├── __init__.py
+│ ├── __init__.py
 
 │ ├── data_processing.py
 
