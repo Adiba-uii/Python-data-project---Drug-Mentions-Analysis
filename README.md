@@ -15,18 +15,31 @@ project_root/
 ├── data/
 
 │ ├── drugs.csv
+
 │ ├── pubmed.csv
+
 │ ├── pubmed.json
+
 │ ├── clinical_trials.csv
+
 ├── workflow/
+
 | ├── __init__.py
+
 │ ├── data_processing.py
+
 │ ├── data_utilities.py
+
 │ ├── data_checking.py
+
 ├── output/
+
 │ ├── output.json
+
 ├── README.md
+
 ├── main.py
+
 ├── constants.py
 
 
