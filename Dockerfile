@@ -5,4 +5,5 @@ COPY  --chown=airflow:root output/ .
 COPY  --chown=airflow:root workflow/ .
 COPY  --chown=airflow:root constants.py/ .
 COPY  --chown=airflow:root main.py/ .
-cmd
+CMD ["python", "main.py"]
+
